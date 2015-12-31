@@ -1,0 +1,6 @@
+---
+published: true
+title: test post!
+layout: post
+---
+the content of the test post!!!
