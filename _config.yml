@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://amalex5.github.io
+title: Andrew at the Recurse Center!
+tagline: A log of everyday life
+description: I'm blogging about every day I spend during the Winter 2 2016 batch at the Recurse Center!
+paginate: 5
