@@ -1,6 +1,6 @@
 ---
 published: false
-title: Recurse Center, Day negative 3
+title: Recurse Center, Day Negative 3
 layout: post
 ---
 Or is it Day -2? I guess that depends on whether I think of my first day at the RC as being Day 0 or Day 1. Obviously the former is more CS-y, but my instinct is to stick with the vernacular convention and call it Day 1... and I guess I could give the post-hoc mathematical justification that the numbering is retrospective/trailing, i.e., what I label as "Day 1" covers the day starting from time `t = 0 days` to time `t = 1 day.`
