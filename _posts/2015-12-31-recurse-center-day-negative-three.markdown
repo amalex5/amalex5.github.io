@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Recurse Center, Day Negative 3
 layout: post
 ---
