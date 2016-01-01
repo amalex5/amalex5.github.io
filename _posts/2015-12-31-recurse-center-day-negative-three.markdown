@@ -77,7 +77,14 @@ Housing and which particular computer I have are secondary. (So why did I list t
     TinyPress saves stuff in Markdown, and all the files are right there on my GitHub account, so it'd be easy to transfer it to something I create. Or, honestly, just writing my own page template would probably be enough. Re-writing all the backend stuff, like TinyPress's pretty web interface, seems a bit tedious. Hmm. I like this idea. I mean, what do TinyPress templates entail? Some CSS? C'mon. That's a few HOURS of work, at most, to make a blog that looks BEAUTIFUL and which design I RESPECT.
 
 
+Okay! It is past midnight. I should finish. In conclusion:
 
+I WILL KEEP WRITING UNTIL I COLLAPSE.
+
+FEWER WORDS, MORE ACTION.
+
+
+---------
 [0] In Maine in 2013, R. and I had a conversation about motivational strategies in software: with the projects we were currently working on, R. felt motivated by the thought that the projects were REALLY HARD and he had NO IDEA HOW TO DO THEM, whereas with the projects I was working on, I felt motivated/enabled by the thought that IT CAN'T BE THAT HARD. With both of our projects the reality was obviously in the middle: once R. dived into his project, it ended up being relatively straightforward compared to what he expected; mine was conceptually straightforward, but all the implementation details were nasty and took a while to sort out.
 
 I guess what I find interesting is that in software, I've always been intimidated by the "I HAVE NO IDEA HOW TO DO THIS" style of project–even though in other parts of my life, that same intimidation has been exactly the appeal. In software the more gentler cushion of "IT CAN'T BE THAT HARD" has been reassuring to me (i.e., when I get stuck or frustrated, I've found it more useful to remember that "IT CAN'T BE THAT HARD" rather than to be negative-confirmation-bias'd by "YUP, YOU SURE HAVE NO IDEA HOW TO DO THIS.") I'm not trying to make a judgment on either style, since I really respect and trust R., but we're clearly opposites in this regard. I guess it's a personality thing. 
