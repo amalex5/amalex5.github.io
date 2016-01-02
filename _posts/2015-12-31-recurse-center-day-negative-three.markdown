@@ -3,7 +3,7 @@ published: true
 title: Recurse Center, Day Negative 3
 layout: post
 ---
-Or is it Day -2? I guess that depends on whether I think of my first day at RC as being Day 0 or Day 1. Obviously the former is more CS-y, but my instinct is to stick with the vernacular convention and call it Day 1... and I guess I could give the post-hoc mathematical justification that the numbering is retrospective/trailing, i.e., what I label as "Day 1" covers the day starting from time `t = 0 days` to time `t = 1 day.`
+Or is it Day -2? I guess that depends on whether I think of my first day at RC as being Day 0 or Day 1. Obviously the former is more CS-y, but my instinct is to stick with the vernacular convention and call it Day 1... and I guess I could give the post-hoc mathematical justification that the numbering is retrospective/trailing, i.e., what I label as "Day 1" covers the day starting from time `t = 0 days` to time `t = 1 day`.
 
 BLAH BLAH BLAH. ANYWAY, in the Gregorian Calendar, today is Thursday, December 31st–just a few days before I start the Winter 2 batch at the Recurse Center! One of my goals for my time at RC is to keep a daily blog, for the completely selfish reason that I want to deliberately reflect on what I'm doing and learning there. If I force myself to write daily (to at least write *something*, regardless of whether I *feel* like doing so), and if I do so in a way that's semi-public, then maybe I'll be better at holding myself to at least *some* standard of accountability. (Not, in general, my strongest suit!)
 
