@@ -13,7 +13,7 @@ Fun details: I installed the [Haskell Platform](https://www.haskell.org/platform
 
 Off to New York tomorrow! M. is letting me stay with him in his palace in outer Queens ("but I'm slammed with this book project, so I might not get to see you all that much.") Earlier today I was re-reading the action-packed chapter of the *Bros. K.* where Ivan, fed up and frustrated, finally storms out of his father's house:
 
->He greeted his father affably and even inquired especially about his health, and then, without waiting for his father to finish his reply, at once announced that he was leaving Moscow in an hour, for good, and asked that the horses be sent for.
+>He greeted his father affably and even inquired especially about his health, and then, without waiting for his father to finish his reply, at once announced that he was leaving for Moscow in an hour, for good, and asked that the horses be sent for.
 
 Daddy Karamazov asks Ivan to stop at a nearby town on his way to re-negotiate the harvest of some timberland he owns. He blabs on about the best way to bargain with the locals. Ivan dithers back and forth. Dad forces him to agree to do it. As Ivan is hopping into the carriage, one of his father's servants, Smerdyakov, comes up. Smerdyakov was born without any apparent father to a mentally-disabled, destitute local peasant ("Stinking Lizaveta"), in a sort of creepy reversal of the immaculate conception. It's not that immaculate. Everyone in town knows that it's Daddy Karamazov who probably raped Stinking Lizaveta. So Smerdyakov is not only his servant but his illegitimate child (and Ivan's half-brother).
 
