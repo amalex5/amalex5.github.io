@@ -26,4 +26,5 @@ In the carriage Ivan changes his mind about renegotiating the stupid timberland 
 >At seven o'clock in the evening Ivan Fyodorovich boarded the train and flew towards Moscow. "Away with all the past, I'm through with the old world forever, and may I never hear another word or echo from it; to the new world, to new places, and no looking back!" But instead of delight, such darkness suddenly descended on his soul, and such grief gnawed at his heart, as he had never known before in the whole of his life. He sat thinking all night; the train flew on, and only at daybreak, entering Moscow, did he suddenly come to, as it were.
 >
 >"I am a scoundrel," he whispered to himself.
+
 (pages 277, 279 and 280 in the FSG paperback of Pevear and Volokhonsky.)
