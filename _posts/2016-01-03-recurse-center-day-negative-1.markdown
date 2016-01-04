@@ -5,7 +5,12 @@ layout: post
 ---
 I got Haskell running on my archaeological MacBook! (Or, to be more specific, I got [GHC](https://en.wikipedia.org/wiki/Glasgow_Haskell_Compiler), the main compiler for Haskell, running.)
 
-I am delinquent: I promised myself in my last blog post that I'd do it on Friday. Instead I did it today, Saturday, though technically I didn't get it running until 1 AM Sunday (approximate time right now), and in any case I was only trying to install it as a way of procrastinating packing and cleaning. But it's working! I typed `ghci` into the command line, and poof! interactive Haskell! It correctly told me that `5+7` (my favorite one-digit numbers) is `12`. I left some tabs with chapters from [Learn You A Haskell For Great Good](http://learnyouahaskell.com/) open, so maybe tomorrow on the bus to New York I'll fool around some more.
+I am delinquent: I promised myself in my last blog post that I'd do it on Friday. Instead I did it today, Saturday, though technically I didn't get it running until 1 AM Sunday (approximate time right now), and in any case I was only trying to install it as a way of procrastinating packing and cleaning. But it's working! I typed `ghci` into the command line, and poof! interactive Haskell! 
+
+    GHCi, version 7.10.3: http://www.haskell.org/ghc/  :? for help
+    Prelude>
+
+It correctly told me that `5+7` (my favorite one-digit numbers) is `12`. I left some tabs with chapters from [Learn You A Haskell For Great Good](http://learnyouahaskell.com/) open, so maybe tomorrow on the bus to New York I'll fool around some more.
 
 More likely I will just sleep, though. I need to: between travel to Portland and prepping for RC, I've been running a bit of a sleep deficit the past week.
 
