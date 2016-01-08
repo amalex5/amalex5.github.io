@@ -1,6 +1,6 @@
 ---
 published: true
-title: rc day 4
+title: Recurse Center, Day 4
 layout: post
 ---
 Today was chiasmatic: I started it with the same anxiety and sadness from yesterday, and ended it with glory, compilation, and whiskey! 
@@ -29,60 +29,4 @@ By the time O. and I started talking, he was really just hung up on the mathy pa
 
 At one point I realized that one of the random constants that had been floating around–we all just assumed it was a meaningless scaling factor or something–sure seemed mighty familiar. `.62832`. Haven't I seen that inside trig functions before? It's not a radian, is it? No, a radian is like fifty seven-point-something degrees. Wait a second–`.28` is twice `.14`–`.62832` is `'pi/5`! OR, even more to the point, since there are TWO pi in every revolution of a circle, it's `2pi/10`. WHICH IS WHAT GIVES US THE TEN RINGS!!! I had my hypothesis in a flash. And then we tested it: what happens if we change `.628321` in the code to just `3.14159`? Sure enough: only two rings. 
 
-Tonight at the RC the second-batch kids were doing (informal, self-organized, five-minute) presentations on stuff they've been working on or thinking about. Afterwards was game night. I really wanted to go to both (and was even MORE excited after my afternoon of success!), but E. is in town this weekend (from Greece!), and so I met up with him and M. for kimchi pancakes in Manhattan Koreatown. E. says he's probably going to get another fellowship and so is going to get to spend a SECOND year in Athens writing his dissertation!
-
-
-
-Even though I hate board games (and even worse, there were VIDEO GAMES there) I wanted to go. 
-
-some 
-
-"You're telling me that I'm supposed to check whether `x>y`–well, how do I know that I can do thatjQuery111306282610835041851_1452145348764? What if it turns out that when you finally fill the variables in, `x` and `y` are my children, and by `x>y` you're asking whether I love `x` greater than `y`? Don't you realize the position you'd be potentially putting me in? You'd be forcing me to say that I loved one of my kids more than the other! So no, I won't tell you whether `x>y` unless you assure me that `x` and `y` are things I'm okay comparing (and that I'm comparing them in a way that I'm OK with). Like if `x` and `y` are numbers, and `>` is normal integer comparison. I'm OK with that. But you have to promise me that that's all you're asking for."
-
-Here's one way to make an infinite list of all the odd squares: `filter odd (map (^2) [1..]`
-
-Here's another: `[n^2 | n <- [1..], odd (n^2)]`
-
-I guess I feel discouraged that I can't actually DO anything
-success begets confidence; failure begets discouragement
-
-the misery of staring at error messages. the code won't compile. why won't it compile? the error message is just a crumb. at least it's better than in math: you can't prove the theorem, but you're not even given a clue what you're doing wrong. you're in a vacuum. 
-
-wanting to be around people who i want to be like
-
-because i've had so few successes the last few years, i get really easily discouraged
-and so there's a positive feedback loop (although "positive" is an ironic description in this case: it's a positive feedback loop of increasing negativity).
-
-what's frustrating is that this feeling (positive feedback spiral of negativity) is very familiar to me. *but so is its opposite.* 
-
-monotonic, not chiasmatic
-
-having some activities that are psychologically taxing and some that are psychologically rewarding, and so being able to cross-subsidize
-
-*Main> map ($ 5) (map (*) [1..10])
-[5,10,15,20,25,30,35,40,45,50]
-*Main> map (* 5) [1..10]
-[5,10,15,20,25,30,35,40,45,50]
-
-red tailed hawk
-http://abcnews.go.com/US/firefighter-rescues-injured-red-tailed-hawk-nyc-building/story?id=36152023
-when i came back, before getting a chance to actually finish writign problem #7
-http://abc7ny.com/pets/firefighter-rescues-injured-red-tailed-hawk-in-manhattan/1150260/
-
-wandering in
-some random code on the whiteboard
-high school geometry
-recognize some stuff as the parametrized version of a circle
-O. has ben trying to learn WebGL and spent the day trying to understand the code behind this one example on glssandbox, which consisted primarily of him changing parts of the code and seeing how the animaiton changed as a result
-able to realize that one of the random constants was pi/5 ("gee, seeing .628somethingsomething in the argument of that cosine looks familiar...")
-webgl
-the GLSSandbox looks amazing, as a really cool exam
-sadly i tried to open it on the ArchaeoBook, and it responded the same way the dinosaurs in a hypothetical real-world Jurassic Park would: by immediately dying once it was exposed to the 
-
-webGL's
-but its fundamental unit isn't the pixel: it's a "fragment", 
-
-red tailed hawk
-
-missing talks and drinks/snacks/game night
-mixed, b/c i don't like games, but Do want the socializing oppurtunity! on the other hand, want to see E
+Tonight at the RC the second-batch kids were doing (informal, self-organized, five-minute) presentations on stuff they've been working on or thinking about. Afterwards was game night. I really wanted to go to both (and was even MORE excited after my afternoon of success!), but E. is in town this weekend (from Greece!), and so I met up with him and M. for kimchi pancakes in Manhattan Koreatown. The research center E.'s at in Athens has a daily "ouzo hour." He says he's probably going to spend a second year there writing his dissertation. The ouzo helps. 
