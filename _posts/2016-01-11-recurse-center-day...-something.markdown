@@ -1,0 +1,26 @@
+---
+published: true
+title: Recurse Center, Day... something?
+layout: post
+---
+Today is Sunday! Not technically a day I need to be at RC? I've been here for a few hours, but have gotten absolutely nothing done. Yesterday, too. Maybe tomorrow I'll start a different numbering scheme: "Day 2-1", since it'll be the first day of my second week. Or maybe I should number in base 5. That'd seem to be a natural way to differentiate between weeks.
+
+Hmm. Anyway, I have a variety of things I want to write about, but the end of the week seems like a good time for a summary:
+
+-- Successes of last week:
+1. I mean, I didn't do *absolutely nothing*. I did learn a little bit of baby Haskell. I did solve a couple of the 99 Problems in Haskell. I did come up with a reasonable and interesting idea for a starter Haskell project. 
+
+-- Failures of last week:
+1. But I did feel really unproductive and crappy. I didn't get very much done, and I certainly didn't get LOST into anything (in a good way). To a large extent this is necessary, especially since I'm trying to dive into deliberately difficult things, which (almost by definition) require large upfront intellectual/psychological investments. So I shouldn't be too hard on myself for this... but it does feel pretty bad.
+2. I didn't work enough with other people. This actually is a real problem. I could have done this, and should have done this, and KNEW I needed to do this, and KNEW that it would have alleviated #1 above. 
+3. I didn't smile enough. Maybe this is a silly point, but as far as contributing in a general way to the social environment goes, this is really important.
+
+-- Things I'll do this upcoming week:
+1. I'm in a Haskell-themed check-in group! (I started the Haskell-themed check-in group!) So as a self-accountability measure RC has groups of 3-6 people meet every morning to talk about what we accomplished the previous day and what we intend to accomplish the next day ("check-ins"). Actually, I'm not sure if there's really any particular intended agenda for the check-ins, but that's how my group was using them last week. The groups change every week, and you can either be with some arbitrary group of people (which is fine!) or with people all interested in a similar topic (e.g., there's a "data science and machine learning" check-in group next week). I managed to get to the sign-up spreadsheet early enough to create a themed check-in group, and so I created a Haskell-themed check-in group. There are two other people in it! Not huge, but that's okay. I'm excited for it.
+2. I want to start trying to write this symbolic differentiator in Haskell. Conceptually it's not that hard (were I doing it in Python or JavaScript I could just dive in and fight my way through), and I think it will be fun and good. And it'll be something I can asked the more experienced Haskellers to code-review, so that I can avoid the autodidactic trap of working but ugly and/or inefficient code!
+3. I also desperately need to find an apartment. And get a new computer. The ArchaeoBook belongs in a museum. In principal, these are problems that are solved entirely by money (unlike most of the problems in my life); in practice, they're solved by amounts of money that are way outside of my spending comfort-zone.
+4. I also want to write in this blog about Haskell. Of course that requires KNOWING and UNDERSTANDING Haskell on a substantially deeper level than I currently do (i.e., a handful of syntactic facts floating disconnected in the logical æther). 
+
+M., E., and I watched Noah Baumbach's latest film, [*While We're Young](https://en.wikipedia.org/wiki/While_We%27re_Young_(film)), last night. I used to really like Baumbach but the older I get the more I dislike how cynical his movies are. Or at least they're superficially cynical. Maybe if I watched them more closely, I'd realize that they're actually deeply critical of the cynicism that every single one of his characters espouses. I'm not sure. In *While We're Young*, Ben Stiller plays a 40something aging hipster and unsuccessful documentary filmmaker who (like the similar character he plays in Baumbach's 2010 movie *Greenberg*) is disdainful of people who are less jaded and cynical than him, precisely BECAUSE they're less cynical than him. The best line from the movie (towards the end) is when someone yells at his character, "The universe isn't a conspiracy against you!" Very true. 
+
+Beforehand we got Czech food at [a beer hall in Astoria filled with Eastern Europeans](http://www.kolibarestaurant.com/). Among the many colorful wall decorations were a mounted boar head and a mounted reindeer skull (with antlers, of course). There was a stuffed pheasant behind the bar. We ordered lángos (deep-fried bread covered in cheese and raw garlic), cured herring in a sweet/sour wine sauce, sauerkraut, pork schnitzel with potato salad, and potato spaetzle swimming in sheep cheese and covered with bacon. Oh, and several pitchers of [BrouCzech](http://brouczech.wa.cz/). Of course.
