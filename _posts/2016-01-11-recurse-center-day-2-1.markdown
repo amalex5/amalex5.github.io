@@ -10,12 +10,12 @@ I was going to write something more philosophical, involving an extended analogy
 Here is the (god, so embarrassingly short) code:
 
     data NestedList a = Elem a | List [NestedList a]
-    flatten :: NestedList a ->  [a]
+    flatten :: NestedList a -> [a]
     flatten (Elem x) = [x]
     flatten (List []) = []
     flatten (List xs) = foldr (\x acc -> (flatten x) ++ acc) [] xs
 
-Haskell requires that lists have all elements be of the same type, so even something as simple as a nested list requires a special construction. E.g., `[1,2,3]` is a valid list in Haskell, but even `[1,2,[3,4],5]` isn't–it contains as elements both numbers (1,2,5) and lists (the list `[3,4]`). Note how we define our custom `NestedList` type recursively (i.e., a `NestedList` is something whose elements are either elements of type `a`, or lists of other `NestedList`s). 
+Haskell requires that lists have all elements be of the same type, so even something as simple as a nested list requires a special construction. E.g., `[1,2,3]` is a valid list in Haskell, but even `[1,2,[3,4],5]` isn't–it contains as elements both numbers (`1`,`2`,`5`) and lists (the list `[3,4]`). Note how we define our custom `NestedList` type recursively (i.e., a `NestedList` is something whose elements are either elements of type `a`, or lists of other `NestedList`s). 
 
 One of the many difficult things about Haskell is that it’s “strongly typed,” i.e., you have to tell Haskell what kind of variable every variable is (is it a string? is in an integer?). That by itself isn’t so bad, but this obsession with ALL THE TYPES MUST BE PERFECTLY CLEAR ALL THE TIME goes pretty deep. Every time you make a function, you have to tell Haskell what kinds of variables it takes as inputs and what kinds it takes as outputs, and even though you can get a bit generic (i.e., “this function takes as input variables of type `x` and returns a list of `x`s”), the effect is like putting on what you think looks like a raincoat but is in fact a straitjacket.
 
