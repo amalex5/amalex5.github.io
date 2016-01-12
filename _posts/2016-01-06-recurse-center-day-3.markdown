@@ -21,6 +21,4 @@ Anyway, so today I worked in isolation, and it was awful, and it was a mistake t
 
 Two quick non-Haskell highlights: someone was talking today at the RC about trying to develop their own cryptography scheme that rather than using normal modular arithmetic, uses arithmetic on conic sections. Someone at the RC once wrote [a chat program that operates using ultrasonic sound](https://github.com/Katee/quietnet). Apparently most computer speakers and microphones can produce/hear sound at ultrasonic frequencies, and she managed to turn this into a viable data transfer protocol! Horrible bandwidth, but good enough for text-based chat between two computers! [It got featured on BoingBoing](http://boingboing.net/2014/01/11/quietnet-near-ultrasonic-mess.html). 
 
-After RC, I went to N.'s apartment and had Luxembourgian wine that C. brought over from Trier. N.'s boss just got fired, but N. is pretty sure her position is secure, since she once bonded with the trust-funded owner of the company over shared nostalgia for their Ivy League beer pong days.
-
 Tomorrow: why Haskell doesn't want you to ask it which of its children it loves more!
