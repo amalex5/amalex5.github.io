@@ -9,6 +9,8 @@ I was going to write something more philosophical, involving an extended analogy
 
 One of the many difficult things about Haskell is that it’s “strongly typed,” i.e., you have to tell Haskell what kind of variable every variable is (is it a string? is in an integer?). That by itself isn’t so bad, but this obsession with ALL THE TYPES MUST BE PERFECTLY CLEAR ALL THE TIME goes pretty deep. Every time you make a function, you have to tell Haskell what kinds of variables it takes as inputs and what kinds it takes as outputs, and even though you can get a bit generic (i.e., “this function takes as input variables of type `x` and returns a list of `x`s”), the effect is like putting on what you think looks like a raincoat but is in fact a straitjacket.
 
+In theory it doesn't sound bad at all. How hard can it be to just be diligent and orderly about your types? In practice...
+
 On the plus side: I’ve basically never made syntax errors in Haskell! In fact, of all the errors I frequently make in Python or Javascript, all but one of them I never make in Haskell! On the minus side: EVERYTHING IS A TYPE ERROR, ALL THE TIME.
 
 Here is an example error message from `ghc` (the Haskell compiler), lightly edited for readability:
