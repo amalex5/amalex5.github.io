@@ -24,26 +24,21 @@ I think of people I know who aren't cynical, and who are otherwise wonderful peo
 I'm still not sold on the inherent wisdom of age. So people tend to get more cynical as they age. So what?  When you're young, your wisdom is clouded by inexperience–but when you're older, it's clouded by experience. This is one of the recurring themes in 
  [*East Coker*](http://www.davidgorman.com/4Quartets/2-coker.htm):
 
->What was to be the value of the long looked forward to,
->
->Long hoped for calm, the autumnal serenity
->
->And the wisdom of age? Had they deceived us
->
->Or deceived themselves, the quiet-voiced elders,
->
->Bequeathing us merely a receipt for deceit?
->
->
->There is, it seems to us,
->At best, only a limited value
->In the knowledge derived from experience.
->The knowledge imposes a pattern, and falsifies,
->
->... Do not let me hear
->Of the wisdom of old men, but rather of their folly,
->Their fear of fear and frenzy, their fear of possession,
->Of belonging to another, or to others, or to God.
+    What was to be the value of the long looked forward to,
+    Long hoped for calm, the autumnal serenity
+    And the wisdom of age? Had they deceived us
+    Or deceived themselves, the quiet-voiced elders,
+    Bequeathing us merely a receipt for deceit? ...
+    
+    There is, it seems to us,
+    At best, only a limited value
+    In the knowledge derived from experience.
+    The knowledge imposes a pattern, and falsifies, ...
+    
+    ... Do not let me hear
+    Of the wisdom of old men, but rather of their folly,
+    Their fear of fear and frenzy, their fear of possession,
+    Of belonging to another, or to others, or to God.
 
 You don't age into wisdom, necessarily. Speaking of which: I'll reiterate that I wrote absolutely zero code today, despite setting progressively smaller goals for myself:
 
