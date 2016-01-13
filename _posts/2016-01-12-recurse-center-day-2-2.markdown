@@ -24,25 +24,25 @@ I think of people I know who aren't cynical, and who are otherwise wonderful peo
 I'm still not sold on the inherent wisdom of age. So people tend to get more cynical as they age. So what?  When you're young, your wisdom is clouded by inexperience–but when you're older, it's clouded by experience. This is one of the recurring themes in 
  [*East Coker*](http://www.davidgorman.com/4Quartets/2-coker.htm):
 
-    What was to be the value of the long looked forward to,
-    Long hoped for calm, the autumnal serenity
-    And the wisdom of age? Had they deceived us
-    Or deceived themselves, the quiet-voiced elders,
-    Bequeathing us merely a receipt for deceit? ...
-    
-    There is, it seems to us,
-    At best, only a limited value
-    In the knowledge derived from experience.
-    The knowledge imposes a pattern, and falsifies, ...
-    
-    ... Do not let me hear
-    Of the wisdom of old men, but rather of their folly,
-    Their fear of fear and frenzy, their fear of possession,
-    Of belonging to another, or to others, or to God.
+>What was to be the value of the long looked forward to,<br>
+>Long hoped for calm, the autumnal serenity<br>
+>And the wisdom of age? Had they deceived us<br>
+>Or deceived themselves, the quiet-voiced elders,<br>
+>Bequeathing us merely a receipt for deceit? ...<br>
+>
+>There is, it seems to us,<br>
+>At best, only a limited value<br>
+>In the knowledge derived from experience.<br>
+>The knowledge imposes a pattern, and falsifies, ...<br>
+>
+>... Do not let me hear<br>
+>Of the wisdom of old men, but rather of their folly,<br>
+>Their fear of fear and frenzy, their fear of possession,<br>
+>Of belonging to another, or to others, or to God.<br>
 
 You don't age into wisdom, necessarily. Speaking of which: I'll reiterate that I wrote absolutely zero code today, despite setting progressively smaller goals for myself:
 
-> OK, screw Haskell! Get yourself some sort of small success! Just do some of these [Project Euler](http://www.theatlantic.com/technology/archive/2011/06/how-i-failed-failed-and-finally-succeeded-at-learning-how-to-code/239855/) problems! well, okay, those take a bit more concentration than you have right now. Ok, just write something cool in Javascript! No? Or Python? Maybe you need more structure? What if you found a step-by-step tutorial for like [D3.js](http://d3js.org/) or something? You like D3! [You've used it before](http://www.andrusia.com/gearseer)! No? Really? You want to vomit up that Chinese bun? Well, at least do it in the bathroom?
+> OK, screw Haskell! Get yourself some sort of small success! Just do some of these [Project Euler](http://www.theatlantic.com/technology/archive/2011/06/how-i-failed-failed-and-finally-succeeded-at-learning-how-to-code/239855/) problems! Well, okay, those take a bit more concentration than you have right now. Ok, just write something cool in Javascript! No? Or Python? Maybe you need more structure? What if you found a step-by-step tutorial for like [D3.js](http://d3js.org/) or something? You like D3! [You've used it before](http://www.andrusia.com/gearseer)! No? Really? You want to vomit up that Chinese bun? Well, at least do it in the bathroom?
 
 I may have found a place to stay for the rest of January that'll get me out of M.'s living room. It's cheap (relatively) and comes with a dog and is on the UWS! Simultaneously, former college RA D. posted on Facebook that a room is opening up in his apartment in Crown Heights on February 1st. 
 
