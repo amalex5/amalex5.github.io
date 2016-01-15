@@ -11,7 +11,7 @@ Though, really all I did to play around was to introduce a randomness parameter 
 
 None of that is very clear. Oh well.
 
-I forced myself to code-review with D., who said he thought it was really well-written JavaScript (!). I agree with the specific compliment: it *was* good JS! The program is so conceptually straightforward and clear in my mind that I was able to write very clear and well-organized JS. (Just like with writing English!) On the other hand, I really don't think I'm a very strong JavaScripter. I never use objects in JS (or rather, JS's weird [object-like system](https://en.wikipedia.org/wiki/Prototype-based_programming)) and don't really know how they work. I guess I should try to find something to write in JS that will FORCE me to be more object-oriented.
+I forced myself to code-review with D., who said he thought it was really well-written JavaScript. I agree with the specific compliment: it *was* good JS! The program is so conceptually straightforward and clear in my mind that I was able to write very clear and well-organized JS. (Just like with writing English!) But in general I don't think I'm a very strong JavaScripter. I never use objects in JS (or rather, JS's weird [object-like system](https://en.wikipedia.org/wiki/Prototype-based_programming)) and don't really know how they work. I guess I should try to find something to write in JS that will FORCE me to be more object-oriented.
 
 Argh. But I don't want to waste my time at RC writing JavaScript. I want to do things that are HARD! things that use RC's human capital and social resources (i.e., all the really cool/smart/knowledgable people I'm around)! things that are harder to motivate myself to do on my own!
 
