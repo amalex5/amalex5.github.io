@@ -15,11 +15,11 @@ I forced myself to code-review with D., who said he thought it was really well-w
 
 Argh. But I don't want to waste my time at RC writing JavaScript. I want to do things that are HARD! things that use RC's human capital and social resources (i.e., all the really cool/smart/knowledgable people I'm around)! things that are harder to motivate myself to do on my own!
 
-While I was waiting in line [for lunch](http://vanessas.com/) I texted Alla:
+While I was waiting in line [for lunch](http://vanessas.com/) I texted A.:
 
 > haskell is making me so sad. i just want to love and be loved by haskell. i spent a day writing js bc i thought it wd make me feel better and it sorta did but in a guilty sleeping-with-your-loser-ex sort of way. it was PLEASURABLE but asymmetric.
 
-She texted back some sort of witty response. Since my flip phone has almost no space left for incoming texts, I had to delete it as soon as I read it. It was something to the effect of, she'd been writing a lot of JS recently for work and felt similarly.
+She texted back a witty response. Since my flip phone has almost no space left for incoming texts, I had to delete it as soon as I read it. It was something to the effect of, she'd been writing a lot of JS recently for work and felt similarly.
 
 Anyway. There was ONE thing I wanted to write about today, namely, the ONE vaguely interesting thing/decision I had to make yesterday while writing my Life implementation (which I guess I really need to put on the internet somewhere).
 
