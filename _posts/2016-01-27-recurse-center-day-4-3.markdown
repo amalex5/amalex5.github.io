@@ -47,7 +47,7 @@ Except, no, there WON'T be time, because most of the really cool Haskell people 
 
 Argh. How was it that Andreas Glaser ended [his *Aims of Education* speech in 2005](https://aims.uchicago.edu/page/2005-andreas-glaeser)? 
 
-> YOU could be a poet. And where if not here, and when if not now?
+> YOU could be a poet. And where, if not here; and when, if not now?
 
 In other news, whenever I try to read news sites (or other JavaScript-cluttered websites), I have to turn JavaScript off, otherwise Safari will gobble up any remaining RAM and slow the entire ArchaeoBook down to the speed of the [pitch drop experiment](https://en.wikipedia.org/wiki/Pitch_drop_experiment). 
 
