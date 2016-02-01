@@ -33,7 +33,10 @@ On Saturday morning I took the train out to Long Island to watch N. be ordained 
 Tomorrow I get to (need to) renew my monthly MetroCard!
 
 -----
-[0] referring to this as a "log" in the sense of a "captain's log" or something
+[0] referring to this as a "log" in the sense of a "captain's log" or something–a deliberate, regular, daily record. (And I know that there's an obvious etymological connection to "blog," but I think "blog" doesn't have the same connotations as a [logbook](https://en.wikipedia.org/wiki/Logbook) does.)
+
 [1] Not that RC is a coding bootcamp, and not that I'm here to to go trade school... heaven forbid I be so vulgar. But it would be nice if the numbers in my bank account moved in the other direction. (*I think you mean "necessary," Andrew.*)
+
 [2] The alumna interviewer explained her career trajectory: she majored in CS at Williams, graduated in '99, worked in i-banking for a few years, hated it, was a ski bum for like a decade; finally, a few years ago, decided she should probably get a real job again, went to RC, re-learned coding, and eventually got hired at OpenDoor. So jealous of the "ski bum" part. Every winter for the past five years I've wanted to be a ski bum. (*So why haven't you?*)
+
 [3] not a dead metaphor! continuing the nautical imagery.
