@@ -3,17 +3,17 @@ published: true
 title: Recurse Center, Day 5.3
 layout: post
 ---
-Yipes. Week five?!? That's terrifying. I should remind myself that this isn't the U of C, and the relevant unit isn't the ten-week quarter but RC's twelve-week batches, but still. Eeep. 
+Yipes. Week five?!? That's terrifying. I should remind myself that this isn't the U of C, and the relevant unit isn't the ten-week quarter but RC's twelve-week batch. Still. Eeep. 
 
-I wrote code today! This really SHOULDN'T be something to be pleased about, but, goodness. I started off the day still trying to poke around in Clojure, and feeling less intimidated than Haskell (it's hard to get intimidated by a language whose only syntax is parentheses!), but still not really able to just DIVE IN and start writing and PLAYING AROUND. I'm still set (wrongly?) on this idea that I should write a symbolic differentiator as a "fun and easy first functional programming project." I have a rough sketch of how that works (parse! pattern match! recur! [0] un-parse!), but it's just a sketch, not a finished mental painting. So I am/was faced with the difficulty of 1) implementing an algorithm I don't fully understand 2) in a language I don't fully understand. (Or rather, in a language I don't understand well enough to play around in.)
+I wrote code today! This really SHOULDN'T be something to be pleased about, but, goodness. I started off the day still trying to poke around in Clojure, and feeling less intimidated than Haskell (it's hard to get intimidated by a language whose only syntax is parentheses!), but still not really able to just DIVE IN and start writing and PLAYING AROUND. I'm still set (wrongly?) on this idea that I should write a symbolic differentiator as a "fun and easy first functional programming project." I have a rough sketch of how they work (parse! pattern match! recur! [0] un-parse!), but it's just a sketch, not a finished mental painting. So I am/was faced with the difficulty of 1) implementing an algorithm I don't fully understand 2) in a language I don't fully understand. (Or rather, in a language I don't understand well enough to play around in.)
 
-So, in an attempt to write SOME CODE, I started writing it in Python. I spent a couple hours trying to implement a parser. I eventually got it to more-or-less turn input like `a   b*c` into an [S-expression](https://en.wikipedia.org/wiki/S-expression) like `(  a (* b c)` (or the Python equivalent, in a nested list), but what a disaster. God. I've written parsers once or twice before, and... it always seems like it should be so straightforward. And yet it always becomes such a disaster so quickly. Lost in a nightmare forest if `if`=`then` statements ([this kind of forest](http://fusion.net/story/252500/japan-suicide-forest-sea-of-trees-aokigahara-mt-fuji/))). Ugh. 
+So, in an attempt to write SOME CODE, I started writing it in Python. I know Python well enough to sketch! And I spent a couple hours trying to implement a parser. I eventually got it to more-or-less turn input like `a+b*c` into an [S-expression](https://en.wikipedia.org/wiki/S-expression) like `(+ a (* b c)` (or the Python equivalent, in a nested list), but what a disaster. God. I've written parsers once or twice before, and... it always seems like it should be so straightforward. And yet it always becomes such a disaster so quickly. Lost in a nightmare forest of `if`-`then` statements ([this kind of forest](http://fusion.net/story/252500/japan-suicide-forest-sea-of-trees-aokigahara-mt-fuji/))). Ugh. 
 
 Maybe I should have asked someone what a fun and easy first functional programming project might be. Someone who actually knows what they're talking about. Oh well. 
 
-With the goal of "FOR GOD'S SAKE ANDREW JUST WRITE SOME CODE" still in mind, I decided it'd be better to just try to write the FUN parts of the symbolic differentiator, i.e., the pattern matching and the recursion! And after a couple hours of slightly messy but moderately fun and reasonably straightforward work, I had a working prototype! So I was able to take a high-school-math function like this:
+With the goal still in mind of "FOR GOD'S SAKE ANDREW JUST WRITE SOME CODE", I decided it'd be better to just try to write the FUN parts of the symbolic differentiator, i.e., the pattern matching and the recursion! And after a couple hours of slightly messy but moderately fun and reasonably straightforward work, I had a working prototype! So I was able to take a high-school-math function like this:
 
-   ax^5   x*sin(2x)
+    ax^5 + x*sin(2x)
 
 at least in its hand-parsed form:
 
@@ -25,7 +25,7 @@ and "calculate" (too strong of a word; all I'm doing is dumb pattern-matching) i
 
 and then un-parse into something ugly but readable:
 
-   (((a*5x^4)+(0*(x^5)))+((x*(cos(2*x)*((2*1)+(0*x))))+(1*sin(2*x))))
+    (((a*5x^4)+(0*(x^5)))+((x*(cos(2*x)*((2*1)+(0*x))))+(1*sin(2*x))))
 
 (Of course un-parsing it takes like two lines of code, whereas parsing it takes... a zillion. Not exactly P vs. NP, but still, talk about directional asymmetry.)
 
