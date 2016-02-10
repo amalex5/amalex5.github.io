@@ -1,6 +1,6 @@
 ---
 published: true
-title: Recurse Center, Day 6-2
+title: Recurse Center, Day 6.2
 layout: post
 ---
 I really want to write something more, but I'm too exhausted, and I appear to be coming down with my annual cold. Here are some links *du jour* instead:
