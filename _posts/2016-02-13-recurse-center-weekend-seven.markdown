@@ -1,6 +1,6 @@
 ---
 published: true
-title: Recurse Center, Weekend... seven??
+title: Recurse Center, Weekend Six!
 layout: post
 ---
 I love these multiple choice questions. I never thought I would say that. [0]
