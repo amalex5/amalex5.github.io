@@ -3,7 +3,7 @@ published: true
 title: Recurse Center, Day 7.1
 layout: post
 ---
-This isn't particularly profound, but there's a syntactic thing in Haskell that I've fallen in love with. Namely: Haskell has an operator to *change the precedence of operations*. What does that mean? So, I often find myself (in LOTS of situations) trying to type into a calculator something like
+This isn't particularly profound, but I've fallen in love with a particular syntactic thing in Haskell. Namely: Haskell has an operator to *change the precedence of operations*. What does that mean? So, I often find myself (in LOTS of situations) trying to type into a calculator something like
 
     5 + 7
 
@@ -27,7 +27,7 @@ BTW, giant caveat, none of this is actually true. Meaning, my examples aren't ac
 
 For the sake of SOME honesty, here's an example of using it in valid-but-boring Haskell: so we could write a nested function call with a bunch of parentheses:
 
-   f ( g x)
+    f ( g x)
 
 Note that function application in Haskell doesn't use parentheses: so instead of writing `f(x)`, we write `f x`.) Anyway, we could do that, but that requires all those parentheses, and it requires that we properly balance them, etc., so instead we could equivalently write:
 
