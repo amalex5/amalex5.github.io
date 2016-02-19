@@ -1,0 +1,12 @@
+---
+published: true
+title: Recurse Center, Day 7.4
+layout: post
+---
+I had a fantastically productive Wednesday, as my internal notes demonstrate:
+
+> fantastic day!!!! woke up and didn’t have coffee, at least not until the afternoon (although i did have a french press of green tea at RC). got a bunch more work done on this haskell MOOC! impulsively (and REALLY EASILY and REALLY QUICKLY) implemented a hash table class in javascript! wrote a blog post about haskell, multiple choice questions, and folding! explained map/reduce/filter to someone, and spontaneously did such a good job that i decided to present the topic on thursday (title: “NEVER WRITE A FOR-LOOP AGAIN”) and wrote up notes! ate falafel! went to the jobs talk and asked a really good question! (“You’ve told us a lot about what we SHOULD do in looking for jobs. But--other than not not go through RC--what SHOULDN’T we do?”) went running! went running for the first time in these fancy new minimalist (but non-toe-) shoes! oh, and i had a fantastic idea for a (gimmicky but whatever) chrome extension (it’d only take a day, and i’ve never made a chrome extension, so it’d be new and interesting!): one that converts all the numbers on each page into a variety of unhelpful formats: kanji, base-ten, hex, binary, and TALLY MARKS. imagine trying to read an article about some new economic report and seeing FIFTY BILLION represented as fifty billion little tally marks. hahahaha! it’s cheap, but it won’t take long, and i’ll be able to demo it. 
+
+But yesterday K. was in town and so I skipped RC (instead we hung out at the Strand and then got spätzle and schnitzel), and today I went in late because I was lazy. So, other than finish a problem set for this Haskell MOOC, I didn't get a whole lot accomplished. I gave a five-minute presentation entitled "NEVER USE A FOR LOOP AGAIN," which I worried was a bit too elementary but which was really well received. [And I immediately typed up all my notes from it afterwards](https://gist.github.com/amalex5/13191acd43caa79d6096). M. lent me his [cylindrical USB scroll wheel](https://griffintechnology.com/us/powermate) to try out with my polar Tetris game.
+
+I really want to re-read [Philosophical Investigations](https://en.wikipedia.org/wiki/Philosophical_Investigations)(well, READ it, since when I read it in 2010-11 I really didn't understand it all that well). I think it would be useful and relevant to a lot of the stuff I've been thinking about recently.
