@@ -33,8 +33,12 @@ Here is my current to-do list:
 
 14. Find somewhere to live for next month (i.e., starting in a week).
 
-15. Organize this to-do list by importance.
+15. Do laundry. Also, be sure to pre-treat t-shirt armpits to get gross waxy deodorant deposits out. See if laundry place will fix embarrassing crotch seam rip in nylon pants.
+
+16. Haircut.
+
+17. Organize this to-do list by importance.
 
 16. Organize this to-do list by expected value (i.e., some product of how important each item is times how much time/effort it'll take to get done.)
 
-17. Start doing the things on this list.
+18. Start doing the things on this list.
