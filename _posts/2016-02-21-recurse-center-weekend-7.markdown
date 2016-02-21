@@ -7,7 +7,7 @@ Here is my current to-do list:
 
 1. Figure out this stuff about parsers in Haskell. (Erik Meijer's lectures on parsing in Haskell seem to assume that the audience has taken classes in formal languages; that's not such a problem, but then the code he's showing in the lectures won't compile. Argh. Maybe I should ask S.)
 
-2. Finish reading this essay about monads. Then read it again and take notes.
+2. Finish reading this [essay about monads](http://www.cs.nott.ac.uk/~pszgmh/monads). Then read it again and take notes.
 
 3. Read Michael Nielsen's essay draft. (I had idly mentioned to him, when he was showing me his demo, that he should send me a draft or something. Then, a few days ago, he did! I'm deeply flattered and honored, but it's rather dense, and his main motivating example is a proof in linear algebra, which in principle I'm sure I could follow, but it'd take work... certainly I can't offer any substantive commentary about his essay, but I want to at least be able to ask him questions!!! TAKE ADVANTAGE OF YOUR OPPORTUNITIES, ANDREW!)
 
@@ -27,7 +27,7 @@ Here is my current to-do list:
 
 11. Start writing symbolic differentiator in Haskell.
 
-12. Write ____.
+12. Write a [redacted].
 
 13. Feel more relaxed.
 
