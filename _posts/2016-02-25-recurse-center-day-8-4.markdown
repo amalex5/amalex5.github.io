@@ -76,3 +76,32 @@ And I could continue, but especially without the syntax highlighting, I shouldn'
 Actually, I am excited about this. I am going to stop writing and get back to this code. I just thought of like three things I can do really easily.
 
 [Here's the full code on GitHub.](https://github.com/amalex5/RC/blob/master/haskell/symdiff.hs) Gah, this code looks so ugly and repetitive.
+
+-----
+
+EDIT: In three minutes I added the chain rule, using a new type declaration:
+
+    Fxn [Char] Expr
+
+a new differentiation rule:
+
+    diff (Fxn xs y) = Mul (Fxn (xs ++ "\'") y) (diff y)
+
+a pointless new simplify rule (Haskell gets upset if I don't add one. There's got to be a way to make it just pass through by default):
+
+    diff (Fxn xs y) = Mul (Fxn (xs ++ "\'") y) (diff y)
+
+and a new printing rule:
+
+    pprint (Fxn xs y) = xs ++ "(" ++ pprint y ++ ")"
+
+Here's it in action:
+
+<pre>
+*Main Prelude> diff (Fxn "f" (Fxn "g" Symbol))
+>> Mul (Fxn "f'" (Fxn "g" Symbol)) (Mul (Fxn "g'" Symbol) (Val 1))
+*Main Prelude> simplify it
+>> Mul (Fxn "f'" (Fxn "g" Symbol)) (Fxn "g'" Symbol)
+*Main Prelude> pprint it
+>> " f'(g(x))*g'(x) "
+</pre>
