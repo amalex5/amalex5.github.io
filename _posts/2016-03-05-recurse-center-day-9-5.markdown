@@ -10,6 +10,7 @@ The last problem set was really fun: we defined a "[Rose tree](https://en.wikipe
 Anyway, the point of all of this, I guess, was: we're familiar with mapping and folding over lists, but we want to think about them in a more general way, and see how in Haskell we can implement these ideas in arbitrary data structures (i.e., type classes).  
 
 Here's a question (or the preamble to one) from the problem set:
+
 > It might be the case that we have a foldable data structure storing elements of type `a` that do not yet form a `Monoid`, but where we do have a function of type `Monoid m => a -> m` that transforms them into one. To this end it would be convenient to have a function `foldMap :: Monoid m => (a -> m) -> f a -> m` that first transforms all the elements of the foldable into a `Monoid` and then folds them into a single monoidal value.
 
 Enough! I am so excited about Haskell---almost as excited as I am for this party at A.'s apartment that I'm leaving for right now.
